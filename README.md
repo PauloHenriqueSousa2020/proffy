@@ -11,6 +11,9 @@
   O Proffy é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores.
 </p>
 
+<p align="center">
+  <img alt="design do projeto" width="650px" src="./assets/design.png" />
+<p>
 
 <h2 align="center"> Desenvolvida com as tecnologias <img src="assets/typescript.png" alt="typescript" height="18"> TypeScript, 
     <img src="assets/node.png" alt="node" height="18"> Node, <img src="assets/react.png" alt="react" height="18"> React, 
@@ -33,8 +36,8 @@
 <h3>Web</h3>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web-landing.png" width="500px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web-list.png" width="500px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web-landing.png" width="450px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web-list.png" width="450px">
 </p>
 
 <h3>Mobile</h3>
